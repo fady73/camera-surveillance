@@ -1,0 +1,292 @@
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\mscorlib.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.Data.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.Transactions.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.EnterpriseServices.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.Web.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.Data.OracleClient.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.TeRK.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.FFMPEG.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.pdb
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.xml
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\normidna.nlp
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\normnfc.nlp
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\normnfd.nlp
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\normnfkc.nlp
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\normnfkd.nlp
+J:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.EnterpriseServices.Wrapper.dll
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\ResolveAssemblyReference.cache
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\GenerateResource.read.1.tlog
+J:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\GenerateResource.write.1.tlog
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.TeRK.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.FFMPEG.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.xml
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.CV.dll
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.Util.dll
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.CV.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.Util.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Controls.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Genetic.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Math.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Neuro.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.pdb
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AForge.Vision.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.CV.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Emgu.Util.xml
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Today\Desktop\web cammera\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.addfaces.resources
+E:\proj\web cammera2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll

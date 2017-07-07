@@ -1,0 +1,116 @@
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Controls.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.DebuggerVisualizers (2010).dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Fuzzy.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Genetic.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.Formats.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.IPPrototyper.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.MachineLearning.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Math.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Neuro.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Lego.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Surveyor.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.TeRK.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.DirectShow.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.FFMPEG.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Kinect.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.VFW.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Ximea.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Vision.dll
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Controls.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Controls.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Fuzzy.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Fuzzy.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Genetic.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Genetic.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.Formats.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.Formats.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.MachineLearning.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.MachineLearning.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Math.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Math.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Neuro.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Neuro.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Lego.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Lego.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Surveyor.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Surveyor.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.TeRK.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.DirectShow.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.DirectShow.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.FFMPEG.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Kinect.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Kinect.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.VFW.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.VFW.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Ximea.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Ximea.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Vision.pdb
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Vision.xml
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form1.resources
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+c:\users\today\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Emgu.CV.dll
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Emgu.CV.UI.dll
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Emgu.Util.dll
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Controls.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Controls.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Fuzzy.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Fuzzy.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Genetic.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Genetic.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.Formats.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Imaging.Formats.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.MachineLearning.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.MachineLearning.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Math.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Math.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Neuro.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Neuro.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Lego.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Lego.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Surveyor.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.Surveyor.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Robotics.TeRK.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.DirectShow.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Kinect.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Kinect.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.VFW.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.VFW.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Ximea.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Video.Ximea.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Vision.pdb
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\AForge.Vision.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Emgu.CV.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Emgu.CV.UI.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Emgu.Util.xml
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form1.resources
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Today\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
